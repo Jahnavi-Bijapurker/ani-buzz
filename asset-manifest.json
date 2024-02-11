@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ani-buzz/static/css/main.071bc6df.css",
+    "main.js": "/ani-buzz/static/js/main.fcf11ed4.js",
+    "static/media/animeVideo.mp4": "/ani-buzz/static/media/animeVideo.467d6e0444a5a66e000b.mp4",
+    "static/media/img2.jpg": "/ani-buzz/static/media/img2.2fb30f3031f243fc338d.jpg",
+    "static/media/img9.jpg": "/ani-buzz/static/media/img9.2fb30f3031f243fc338d.jpg",
+    "static/media/img5.jpg": "/ani-buzz/static/media/img5.333b08f90b479e3631d3.jpg",
+    "static/media/headerimg.jpg": "/ani-buzz/static/media/headerimg.e7322b4c1dab07eb3c32.jpg",
+    "static/media/img1.jpg": "/ani-buzz/static/media/img1.7a24a83d4478811b6c13.jpg",
+    "static/media/img3.jpg": "/ani-buzz/static/media/img3.c148ee1c6aa4faa2cae2.jpg",
+    "static/media/img10.jpg": "/ani-buzz/static/media/img10.d661ae62a55195b79fea.jpg",
+    "static/media/img7.jpg": "/ani-buzz/static/media/img7.284d38e29f340b48a1fd.jpg",
+    "static/media/instaimg.png": "/ani-buzz/static/media/instaimg.f6920da414006fa403dd.png",
+    "static/media/AboutImg.jpg": "/ani-buzz/static/media/AboutImg.19ec6206c390e7510541.jpg",
+    "static/media/img2 (2).jpg": "/ani-buzz/static/media/img2 (2).19ec6206c390e7510541.jpg",
+    "static/media/img6.jpg": "/ani-buzz/static/media/img6.11555849840f4bcf5358.jpg",
+    "static/media/up-arrow.png": "/ani-buzz/static/media/up-arrow.cddba1c724254d863f6a.png",
+    "static/media/img8.jpg": "/ani-buzz/static/media/img8.7e3feb7e68c7899900f4.jpg",
+    "static/media/ximg.png": "/ani-buzz/static/media/ximg.8abb599a57c7acce78fc.png",
+    "static/media/fbimg.png": "/ani-buzz/static/media/fbimg.3110b43c514e640d7ee0.png",
+    "static/media/img4.jpg": "/ani-buzz/static/media/img4.7be0479774c66d0ab6da.jpg",
+    "static/media/slick.svg": "/ani-buzz/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ani-buzz/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ani-buzz/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ani-buzz/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ani-buzz/index.html",
+    "main.071bc6df.css.map": "/ani-buzz/static/css/main.071bc6df.css.map",
+    "main.fcf11ed4.js.map": "/ani-buzz/static/js/main.fcf11ed4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.071bc6df.css",
+    "static/js/main.fcf11ed4.js"
+  ]
+}
