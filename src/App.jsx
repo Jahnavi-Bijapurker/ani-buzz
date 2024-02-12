@@ -10,7 +10,7 @@ import Upcoming from './Pages/Upcoming/Upcoming';
 function App() {
   return (
     <div>
-      <Router basename='ani-buzz'>
+      <Router basename="/ani-buzz">
         <Routes>
           <Route path='/' element={<Home />}/>
           <Route path='/upcoming' element={< Upcoming/>}/>
