@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ani-buzz/static/css/main.071bc6df.css",
-    "main.js": "/ani-buzz/static/js/main.e5dfaac8.js",
+    "main.js": "/ani-buzz/static/js/main.1d6e0581.js",
     "static/media/animeVideo.mp4": "/ani-buzz/static/media/animeVideo.467d6e0444a5a66e000b.mp4",
     "static/media/img2.jpg": "/ani-buzz/static/media/img2.2fb30f3031f243fc338d.jpg",
     "static/media/img9.jpg": "/ani-buzz/static/media/img9.2fb30f3031f243fc338d.jpg",
@@ -26,10 +26,10 @@
     "static/media/slick.woff": "/ani-buzz/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/ani-buzz/index.html",
     "main.071bc6df.css.map": "/ani-buzz/static/css/main.071bc6df.css.map",
-    "main.e5dfaac8.js.map": "/ani-buzz/static/js/main.e5dfaac8.js.map"
+    "main.1d6e0581.js.map": "/ani-buzz/static/js/main.1d6e0581.js.map"
   },
   "entrypoints": [
     "static/css/main.071bc6df.css",
-    "static/js/main.e5dfaac8.js"
+    "static/js/main.1d6e0581.js"
   ]
 }
